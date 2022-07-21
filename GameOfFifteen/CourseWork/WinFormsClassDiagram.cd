@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWork.GameLevels">
+    <Position X="10.25" Y="4.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAQAACAAACAAAAAEIACAABBSAEAkAAAiAABMAQAEAAQ=</HashCode>
+      <FileName>GameLevels.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Fifteen" />
+      <Field Name="MainMenu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CourseWork.GameOfFifteen">
+    <Position X="14" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AGBAAACEAiACiEABEICAAIAyAc0/ABIgMIIEQACQAAA=</HashCode>
+      <FileName>GameOfFifteen.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Game" />
+      <Field Name="Stat" />
+      <Field Name="MainMenu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CourseWork.Localisation">
+    <Position X="0.5" Y="7" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgQAAAAQgAIAMQAoAEABEAggQUABAARQQAABAAQACoM=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Menu">
+    <Position X="7" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IMACAEAAQCAEACIAAESAQAACAAAkACABgAACAAAACAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Levels" />
+      <Field Name="Settings" />
+      <Field Name="GameRating" />
+      <Field Name="Raccoon" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CourseWork.MenuSettings">
+    <Position X="10.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQIAACAAwAAAABiAAAASAAAAAAAAABAEAAQAAAg=</HashCode>
+      <FileName>MenuSettings.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="MainMenu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CourseWork.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.RACCOON">
+    <Position X="4.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAgAAACAQAACAAABAAAgAAAAAgAAAgA=</HashCode>
+      <FileName>RACCOON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Rating">
+    <Position X="3.25" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAJKBAAAAiAIAIAAAASAAAASCEAAAoAEAAICAAAQAAA=</HashCode>
+      <FileName>Rating.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Stat" />
+      <Field Name="MainMenu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CourseWork.Properties.Resources">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.Properties.Settings">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAACAAAAAAAAAAAIAAAAAABAAAAAAABAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryGameOfFifteen.Game">
+    <Position X="17.25" Y="4.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ClassLibraryGameOfFifteen.Statistics">
+    <Position X="17.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

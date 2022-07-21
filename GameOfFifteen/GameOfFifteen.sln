@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseWork", "CourseWork\CourseWork.csproj", "{25CE7636-7B8C-4B74-ACA0-1CD401E7B046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryGameOfFifteen", "ClassLibraryGameOfFifteen\ClassLibraryGameOfFifteen.csproj", "{1037378F-1DB2-44AA-9B79-88B9E296D862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25CE7636-7B8C-4B74-ACA0-1CD401E7B046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CE7636-7B8C-4B74-ACA0-1CD401E7B046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CE7636-7B8C-4B74-ACA0-1CD401E7B046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CE7636-7B8C-4B74-ACA0-1CD401E7B046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1037378F-1DB2-44AA-9B79-88B9E296D862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1037378F-1DB2-44AA-9B79-88B9E296D862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1037378F-1DB2-44AA-9B79-88B9E296D862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1037378F-1DB2-44AA-9B79-88B9E296D862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B626571-2771-4CFA-B579-18CB47768B62}
+	EndGlobalSection
+EndGlobal
